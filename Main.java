@@ -16,7 +16,7 @@ public class Main
   static final int COST_PER_HOUR = 120;
   private static Scanner kb = new Scanner(System.in);
   
-  // Initializes databases, calls methods according to choise from menu
+  // Initializes databases, calls methods according to choise from menu.
   public static void main(String[] args) throws Exception
   {
     System.out.print("\033[H\033[2J");
